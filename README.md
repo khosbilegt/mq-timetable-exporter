@@ -1,6 +1,6 @@
 # MQ Timetable Exporter
 
-A Chrome Extension that allows Macquarie University students to export their timetable from the Class Registration window in the student portal to iCalendar (.ics) format. Not uploading to the Chrome Web Store because it's for private use but feel free to clone, fork or download a version from the releases. Specifically for the URL: https://mq-edu.t1cloud.com/T1Default/CiAnywhere/Web/MQ-EDU/StudentTimetabling/StudentClassRegistrationMyMaintenance.
+A Chrome Extension that allows Macquarie University students to export their timetable from the Class Registration window in the student portal to iCalendar (.ics) format. Not uploading to the Chrome Web Store because it's for private use but feel free to clone, fork or download a version from the releases. Specifically for the URL: https://mq-edu.t1cloud.com/T1Default/CiAnywhere/Web/MQ-EDU/StudentTimetabling/StudentClassRegistrationMyMaintenance. If you just click on the link, it might complain about stuff but it's the right link (at least for me).
 
 Confirmed working as of Session 1, 2026 on Desktop.
 
