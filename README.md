@@ -16,3 +16,7 @@ Confirmed working as of Session 1, 2026 on Desktop.
 ## Context
 
 Why spend 5 minutes doing a task when you can spend a couple hours automating it?
+
+# Disclaimer
+
+This is not endorsed, encouraged or in any way affiliated with the Macquarie University. It's just something I made for my own convenience.
