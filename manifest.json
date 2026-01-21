@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "MQ Timetable Exporter",
+  "version": "1.0.0",
+  "description": "Export your MQ student timetable to iCalendar (.ics) format from Class Registration page.",
+  "permissions": [],
+  "host_permissions": [
+    "https://mq-edu.t1cloud.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mq-edu.t1cloud.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
