@@ -8,6 +8,10 @@ Confirmed working as of Session 1, 2026 on Desktop.
 
 ![Example](example.png)
 
+## How to use
+
+Go to releases, choose the latest one, download, unzip and choose "Load unpacked" in chrome://extensions. Or clone your preferred branch/tag and use it.
+
 ## Roadmap
 
 1. Prepare .csv with Google Maps data of all building locations and embed links to them.
